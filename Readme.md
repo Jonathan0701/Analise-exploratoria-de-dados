@@ -1,3 +1,1 @@
-Projeto do módulo 3
-
-Alteração
+Projeto de Análise Exploratória de Dados de um banco fictício. 
